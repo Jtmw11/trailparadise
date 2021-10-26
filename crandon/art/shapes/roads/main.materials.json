@@ -1,0 +1,233 @@
+{
+  "asphalt_edge" : {
+    "name" : "asphalt_edge",
+    "mapTo" : "asphalt_edge",
+    "class" : "Material",
+    "persistentId" : "7ee29750-f906-4a90-a13e-7b54243d2b37",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/asphalt_edge_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/roads/asphalt_edge_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/roads/asphalt_edge_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "asphalt_light" : {
+    "name" : "asphalt_light",
+    "mapTo" : "asphalt_light",
+    "class" : "Material",
+    "persistentId" : "f23b3714-e039-4c50-a568-070d9ceea876",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/asphalt_light_d.dds",
+        "detailScale" : [ 0.09000000357627869, 0.09000000357627869 ],
+        "diffuseColor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 2 ],
+        "normalMap" : "levels/crandon/art/shapes/roads/asphalt_light_n.dds",
+        "overlayMap" : "levels/crandon/art/shapes/roads/asphalt_variation1_d.dds",
+        "pixelSpecular" : true,
+        "reflectivityMap" : "levels/crandon/art/shapes/roads/asphalt_variation1_r.dds",
+        "reflectivityMapUV" : true,
+        "specularMap" : "levels/crandon/art/shapes/roads/asphalt_light_s.dds",
+        "specularPower" : 20,
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {},
+      {}
+    ],
+    "cubemap" : "cubemap_hirochi_raceway_reflection_cubemap",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularMapUV0" : "0",
+    "specularMapUV1" : "1",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "concrete_dirty" : {
+    "name" : "concrete_dirty",
+    "mapTo" : "concrete_dirty",
+    "class" : "Material",
+    "persistentId" : "d82566f5-535a-4415-9078-95004be2aff4",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/concrete_slab_d.dds",
+        "detailMap" : "levels/crandon/art/shapes/roads/concrete_macro.dds",
+        "detailScale" : [ 0.2000000029802322, 0.2000000029802322 ],
+        "normalMap" : "levels/crandon/art/shapes/roads/concrete_slab_n.dds",
+        "pixelSpecular" : true,
+        "specular" : [
+          0.5960784554481506,
+          0.6000000238418579,
+          0.5960784554481506,
+          0.00800000037997961
+        ],
+        "specularMap" : "levels/crandon/art/shapes/roads/concrete_slab_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularMapUV0" : "0",
+    "specularMapUV1" : "1",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "dirt_mesh" : {
+    "name" : "dirt_mesh",
+    "mapTo" : "dirt_mesh",
+    "class" : "Material",
+    "persistentId" : "8daeb0c4-c8c7-4e7e-bead-619077ae1e20",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/terrain/Overlay_RockyDirt.dds",
+        "detailMap" : "levels/crandon/art/terrain/utah_texture_dirt_01_d.dds",
+        "detailNormalMap" : "levels/crandon/art/terrain/utah_texture_dirt_01_n.dds",
+        "detailScale" : [ 4, 4 ],
+        "diffuseColor" : [
+          0.9960784912109375,
+          0.8941177129745483,
+          0.803921639919281,
+          0.00800000037997961
+        ],
+        "normalMap" : "levels/crandon/art/terrain/utah_texture_dirt_01_n.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "groundType" : "DIRT",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularMapUV0" : "0",
+    "specularMapUV1" : "1",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "lines_usa" : {
+    "name" : "lines_usa",
+    "mapTo" : "lines_usa",
+    "class" : "Material",
+    "persistentId" : "3eb004d3-1022-4525-80f9-db2e3c560e7b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/lines_usa_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/roads/lines_usa_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/roads/lines_usa_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "rumblestrip" : {
+    "name" : "rumblestrip",
+    "mapTo" : "rumblestrip",
+    "class" : "Material",
+    "persistentId" : "e17953f5-131d-435f-8b15-04ad11605520",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/rumblestrip_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/roads/rumblestrip_n.dds",
+        "overlayMap" : "levels/crandon/art/shapes/roads/rumblestrip_rubber.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/roads/rumblestrip_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {
+        "useAnisotropic" : true
+      },
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "groundType" : "RUMBLE_STRIP",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  },
+  "skidmarks" : {
+    "name" : "skidmarks",
+    "mapTo" : "skidmarks",
+    "class" : "Material",
+    "persistentId" : "c7b7a0bb-81a3-4c59-881a-a444e22d2c6d",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/crandon/art/shapes/roads/skidmarks1_d.dds",
+        "specularPower" : 36,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 80,
+    "castShadows" : false,
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "materialTag2" : "hirochi_raceway",
+    "specularStrength0" : "0",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "track_edge" : {
+    "name" : "track_edge",
+    "mapTo" : "track_edge",
+    "class" : "Material",
+    "persistentId" : "2a13ed24-dc75-4868-8bbd-1e12f1b9a97d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/roads/track_edge_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/roads/track_edge_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/roads/track_edge_s.dds",
+        "specularPower" : 32,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "BUILDINGS",
+    "groundType" : "PLASTIC",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularStrength0" : "1.37255",
+    "translucentBlendOp" : "None"
+  }
+}

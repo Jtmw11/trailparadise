@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.79.0 commit date:2017-09-11, commit time:10:43, hash:5bd8ac9</authoring_tool>
+    </contributor>
+    <created>2019-06-11T14:22:14</created>
+    <modified>2019-06-11T14:22:14</modified>
+    <unit meter="1" name="meter" />
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="hr_bld_metal_trim-effect">
+      <profile_COMMON>
+        <newparam sid="eca_bld_metalbeams_d_dds-surface">
+          <surface type="2D">
+            </surface>
+        </newparam>
+        <newparam sid="eca_bld_metalbeams_d_dds-sampler">
+          <sampler2D>
+            <source>eca_bld_metalbeams_d_dds-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="eca_bld_metalbeams_d_dds-sampler" />
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+    <effect id="signs_usa-effect">
+      <profile_COMMON>
+        <newparam sid="signs_usa_png-surface">
+          <surface type="2D">
+            </surface>
+        </newparam>
+        <newparam sid="signs_usa_png-sampler">
+          <sampler2D>
+            <source>signs_usa_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="signs_usa_png-sampler" />
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <transparent opaque="A_ONE">
+              <color>1 1 1 1</color>
+            </transparent>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="hr_bld_metal_trim-material" name="hr_bld_metal_trim">
+      <instance_effect url="#hr_bld_metal_trim-effect" />
+    </material>
+    <material id="signs_usa-material" name="signs_usa">
+      <instance_effect url="#signs_usa-effect" />
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Plane_060-mesh" name="Plane.060">
+      <mesh>
+        <source id="Plane_060-mesh-positions">
+          <float_array count="102" id="Plane_060-mesh-positions-array">0.3109426 -0.04944705 4.493173 -0.3532393 -0.04944705 4.493173 -0.8228868 -0.04944705 4.100819 -0.8228868 -0.049447 3.545944 -0.3532392 -0.04944694 3.153589 0.3109427 -0.04944694 3.153589 0.7805899 -0.04944694 3.545944 0.7805901 -0.049447 4.100819 0.3109426 -0.04944705 4.493173 -0.3532393 -0.04944705 4.493173 -0.8228868 -0.04944705 4.100819 -0.8228868 -0.049447 3.545944 -0.3532392 -0.04944694 3.153589 0.3109427 -0.04944694 3.153589 0.7805899 -0.04944694 3.545944 0.7805901 -0.049447 4.100819 -0.04947566 0.002133607 -1.475942 -0.04578018 -0.004267156 -1.475942 -0.04208469 0.002133607 -1.475942 -0.04947566 0.002133607 4.481235 -0.04578018 -0.004267156 4.481235 -0.04208469 0.002133607 4.481235 -0.04677963 0.05137622 -1.475942 -0.04478073 0.05137622 -1.475942 -0.08977365 -0.0265538 -1.475942 -0.0907731 -0.02482241 -1.475942 -7.87264e-4 -0.02482241 -1.475942 -0.001786708 -0.0265538 -1.475942 -0.04478073 0.05137622 4.481235 -0.04677963 0.05137622 4.481235 -0.0907731 -0.02482241 4.481235 -0.08977365 -0.0265538 4.481235 -0.001786708 -0.0265538 4.481235 -7.87264e-4 -0.02482241 4.481235</float_array>
+          <technique_common>
+            <accessor count="34" source="#Plane_060-mesh-positions-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_060-mesh-normals">
+          <float_array count="87" id="Plane_060-mesh-normals-array">0 -1 0 0 1 0 0.9985046 0.05466812 0 0.4519101 -0.8920636 0 0.5465939 0.8373979 0 -0.5465939 0.8373978 0 -0.4519099 -0.8920636 0 0 1 0 -0.8660622 -0.4999364 0 0.8660623 -0.4999362 0 -0.9985046 0.05466812 0 0 -1 0 0 -1 0 0 -1 0 1.65612e-7 -1 0 0 -1 0 0 1 0 -1.65612e-7 1 0 0 1 0 0 1 0 0 1 0 0.9985046 0.05466812 0 0.4519101 -0.8920636 0 0.5465939 0.8373979 0 -0.5465943 0.8373976 0 -0.45191 -0.8920636 0 -0.866066 -0.4999297 0 0.8660625 -0.4999358 0 -0.9985046 0.05466812 0</float_array>
+          <technique_common>
+            <accessor count="29" source="#Plane_060-mesh-normals-array" stride="3">
+              <param name="X" type="float" />
+              <param name="Y" type="float" />
+              <param name="Z" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane_060-mesh-map-0">
+          <float_array count="180" id="Plane_060-mesh-map-0-array">0.1341814 0.2489477 0.1865426 0.3016843 0.1341814 0.4290017 0.2426952 0.04432189 0.1686452 0.04432189 0.2426951 0.2243758 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 -0.4092946 0.6129368 1.015438 0.6102487 1.015447 0.6129368 -0.4092946 0.6129368 1.015438 0.6102487 1.015447 0.6129368 -0.4092946 0.6129368 1.015438 0.6102487 1.015447 0.6129368 0.2605108 0.6227611 2.75739 0.633217 0.2605108 0.633217 0.1341814 0.4290017 0.06013137 0.4290017 0.06013143 0.2489477 0.00777018 0.376265 0.00777018 0.3016843 0.06013143 0.2489477 0.06013143 0.2489477 0.1341814 0.2489477 0.1341814 0.4290017 0.1865426 0.3016843 0.1865426 0.3762651 0.1341814 0.4290017 0.06013137 0.4290017 0.00777018 0.376265 0.06013143 0.2489477 0.1162839 0.1716391 0.1686452 0.2243758 0.1686452 0.04432189 0.2426951 0.2243758 0.2950564 0.1716392 0.2950564 0.09705835 0.2950564 0.09705835 0.2426952 0.04432189 0.2426951 0.2243758 0.1686452 0.04432189 0.1162839 0.09705841 0.1162839 0.1716391 0.1686452 0.2243758 0.2426951 0.2243758 0.1686452 0.04432189 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217 -0.4092946 0.6129368 -0.4093031 0.6102487 1.015438 0.6102487 -0.4092946 0.6129368 -0.4093031 0.6102487 1.015438 0.6102487 -0.4092946 0.6129368 -0.4093031 0.6102487 1.015438 0.6102487 0.2605108 0.6227611 2.75739 0.6227611 2.75739 0.633217</float_array>
+          <technique_common>
+            <accessor count="90" source="#Plane_060-mesh-map-0-array" stride="2">
+              <param name="S" type="float" />
+              <param name="T" type="float" />
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plane_060-mesh-vertices">
+          <input semantic="POSITION" source="#Plane_060-mesh-positions" />
+        </vertices>
+        <triangles count="18" material="hr_bld_metal_trim-material">
+          <input offset="0" semantic="VERTEX" source="#Plane_060-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Plane_060-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Plane_060-mesh-map-0" />
+          <p>23 2 6 21 2 7 18 2 8 17 3 9 31 3 10 24 3 11 18 4 12 33 4 13 26 4 14 25 5 15 19 5 16 16 5 17 27 6 18 20 6 19 17 6 20 23 7 21 29 7 22 28 7 23 31 8 24 25 8 25 24 8 26 33 9 27 27 9 28 26 9 29 16 10 30 29 10 31 22 10 32 23 21 63 28 21 64 21 21 65 17 22 66 20 22 67 31 22 68 18 23 69 21 23 70 33 23 71 25 24 72 30 24 73 19 24 74 27 25 75 32 25 76 20 25 77 23 7 78 22 7 79 29 7 80 31 26 81 30 26 82 25 26 83 33 27 84 32 27 85 27 27 86 16 28 87 19 28 88 29 28 89</p>
+        </triangles>
+        <triangles count="12" material="signs_usa-material">
+          <input offset="0" semantic="VERTEX" source="#Plane_060-mesh-vertices" />
+          <input offset="1" semantic="NORMAL" source="#Plane_060-mesh-normals" />
+          <input offset="2" semantic="TEXCOORD" set="0" source="#Plane_060-mesh-map-0" />
+          <p>5 0 0 6 0 1 0 0 2 13 1 3 12 1 4 8 1 5 0 11 33 1 11 34 4 11 35 2 12 36 3 12 37 4 12 38 4 13 39 5 13 40 0 13 41 6 14 42 7 14 43 0 14 44 1 15 45 2 15 46 4 15 47 10 16 48 9 16 49 12 16 50 8 17 51 15 17 52 14 17 53 14 18 54 13 18 55 8 18 56 12 19 57 11 19 58 10 19 59 9 20 60 8 20 61 12 20 62</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers />
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="base00" name="base00" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <node id="start01" name="start01" type="NODE">
+          <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+          <node id="nulldetail25" name="nulldetail25" type="NODE">
+            <matrix sid="transform">1 0 0 9.53674e-5 0 1 0 2.05673e-4 0 0 1 6.58035e-5 0 0 0 1</matrix>
+          </node>
+          <node id="sign_stop_a050" name="sign_stop_a050" type="NODE">
+            <matrix sid="transform">0.5583587 0 0 9.53674e-5 0 0.5583587 0 2.05673e-4 0 0 0.668353 6.57132e-5 0 0 0 1</matrix>
+            <instance_geometry name="sign_stop_a050" url="#Plane_060-mesh">
+              <bind_material>
+                <technique_common>
+                  <instance_material symbol="hr_bld_metal_trim-material" target="#hr_bld_metal_trim-material" />
+                  <instance_material symbol="signs_usa-material" target="#signs_usa-material" />
+                </technique_common>
+              </bind_material>
+            </instance_geometry>
+          </node>
+        </node>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene" />
+  </scene>
+</COLLADA>

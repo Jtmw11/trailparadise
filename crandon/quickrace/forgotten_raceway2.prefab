@@ -1,0 +1,94 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0.000000 0.000000 0.000000";
+
+   new SpawnSphere(forgotten_raceway2_rollingReverse_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-298.906769 -14.5188713 31.6728077";
+      scale = "1 1 1";
+      rotationMatrix = "-0.754292727 -0.656441033 -0.011323235 0.650724709 -0.749793112 0.119863071 -0.087172769 0.0830434859 0.992727578";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_rolling_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway2_standingReverse_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-452.575073 360.759766 25.2451992";
+      scale = "1 1 1";
+      rotationMatrix = "-0.84435755 -0.535453379 -0.0187165551 0.535312116 -0.844564795 0.0123031111 -0.0223950874 0.000369026384 0.999749124";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_standing_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway2_rolling_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-454.413055 467.958313 32.1597328";
+      scale = "1 1 1";
+      rotationMatrix = "0.0455024242 -0.99896425 0 0.99896425 0.0455024242 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_standing_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway2_standing_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-455.282684 364.819519 25.2451992";
+      scale = "1 1 1";
+      rotationMatrix = "0.844276428 0.535907865 0 -0.535907865 0.844276428 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         Enabled = "1";
+   };
+   new Prefab() {
+      FileName = "/levels/hirochi_raceway/art/prefabs/barriers_white_forgotten_raceway2.prefab";
+      loadMode = "Automatic";
+      useGlobalTranslation = "0";
+      position = "0 0 0";
+      scale = "1 1 1";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new Prefab() {
+      FileName = "/levels/hirochi_raceway/art/prefabs/barriers_red_forgotten_raceway2.prefab";
+      loadMode = "Automatic";
+      useGlobalTranslation = "0";
+      position = "0 0 0";
+      scale = "1 1 1";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+};
+//--- OBJECT WRITE END ---
+
+
+
+
+

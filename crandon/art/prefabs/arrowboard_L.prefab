@@ -1,0 +1,17 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/arrowboard_L.dae";
+    position = "-456.7759704589844 11.056060791015625 29.36385154724121";
+    rotationMatrix = "0.17668506503105164 0.9832051992416382 0.04571547359228134 -0.9827931523323059 0.1787712126970291 -0.04645931348204613 -0.0538516491651535 -0.03672018647193909 0.9978735446929932";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

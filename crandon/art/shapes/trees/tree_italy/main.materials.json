@@ -1,0 +1,27 @@
+{
+  "tall_plant_vegetation" : {
+    "name" : "tall_plant_vegetation",
+    "mapTo" : "tall_plant_vegetation",
+    "class" : "Material",
+    "persistentId" : "29d76804-fc02-4ce8-ae04-4d68b17c30fa",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/tree_italy/tall_plant_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/tree_italy/tall_plant_n.dds",
+        "specular" : [ 0.9882349967956543, 0.9882349967956543, 0.9882349967956543, 1 ],
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 84,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "specularStrength0" : "0.784314"
+  }
+}

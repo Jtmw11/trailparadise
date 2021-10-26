@@ -1,0 +1,24 @@
+{
+  "name":"quickrace.hirochi_raceway.forgotten_raceway.title",
+  "description":"quickrace.hirochi_raceway.forgotten_raceway.description",
+  "authors":"BeamNG",
+  "difficulty":"16",
+  "date":1432914025,
+  "lapCount":1,
+  "radiusMultiplierAI": 2,
+  "closed": true,
+  "reversible" : true,
+  "allowRollingStart": true,
+  "prefabs":[
+    "quickrace/forgotten_raceway",
+    "hirochi_finishline"
+   ],
+   "lapConfig" : [
+      "quickrace_wp7",
+      "quickrace_wp8",
+      "quickrace_wp9",
+      "quickrace_wp10",
+      "hr_pit_entry", 
+    ],
+   "finishLineCheckpoint":"hr_pit"
+}

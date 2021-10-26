@@ -1,0 +1,50 @@
+{
+  "trunk_chopped" : {
+    "name" : "trunk_chopped",
+    "mapTo" : "trunk_chopped",
+    "class" : "Material",
+    "persistentId" : "861edb35-2fda-429b-8318-aee7e87c0941",
+    "Stages" : [
+      {
+        "colorMap" : "trunk_chopped_d.dds",
+        "specularMap" : "trunk_chopped_s.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "NATURE",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural",
+    "materialTag2" : "vegetation"
+  },
+  "wood_splinters" : {
+    "name" : "wood_splinters",
+    "mapTo" : "wood_splinters",
+    "class" : "Material",
+    "persistentId" : "4062d47b-e2f2-4aa7-9f1b-869f4ccad187",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/common/wood_splinters_d.dds",
+        "minnaertConstant" : 0,
+        "normalMap" : "levels/crandon/art/shapes/trees/common/wood_splinters_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/common/wood_splinters_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.4666669964790344, 1, 0, 1 ],
+        "subSurfaceRolloff" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 90,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "vegetation",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural"
+  }
+}

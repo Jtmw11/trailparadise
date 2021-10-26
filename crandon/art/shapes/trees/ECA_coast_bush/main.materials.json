@@ -1,0 +1,191 @@
+{
+  "cork_oak" : {
+    "name" : "cork_oak",
+    "mapTo" : "cork_oak",
+    "class" : "Material",
+    "persistentId" : "07e14aeb-771b-4b0a-aa2a-7911fe243828",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 68,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  },
+  "cork_oak_trunk" : {
+    "name" : "cork_oak_trunk",
+    "mapTo" : "cork_oak_trunk",
+    "class" : "Material",
+    "persistentId" : "c56a54fa-2956-4933-8a8b-60af3c35b181",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_trunk_d.dds",
+        "detailNormalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_trunk_n.dds",
+        "detailScale" : [ 0.2000000029802322, 0.2000000029802322 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_trunk_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/cork_oak_trunk_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 85,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  },
+  "generibush_leaves" : {
+    "name" : "generibush_leaves",
+    "mapTo" : "generibush_leaves",
+    "class" : "Material",
+    "persistentId" : "d7af0998-35ea-49ba-93b7-7da6069bf39f",
+    "Stages" : [
+      {
+        "colorMap" : "generibush_d.dds",
+        "normalMap" : "generibush_n.dds",
+        "specularMap" : "generibush_s.dds",
+        "specularPower" : 21,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 84,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  },
+  "holm_oak_branches" : {
+    "name" : "holm_oak_branches",
+    "mapTo" : "holm_oak_branches",
+    "class" : "Material",
+    "persistentId" : "4070f4b1-2217-4060-b44e-d604341298fb",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/holm_oak_branches_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/holm_oak_branches_n.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 100,
+    "alphaTest" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "specularStrength0" : "0.490196"
+  },
+  "holm_oak_trunk" : {
+    "name" : "holm_oak_trunk",
+    "mapTo" : "holm_oak_trunk",
+    "class" : "Material",
+    "persistentId" : "79b49599-d581-42ea-be9f-f52f8a16c383",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/tree_trunk_scan_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/tree_trunk_scan_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/tree_trunk_scan_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 85,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  },
+  "scots_pine" : {
+    "name" : "scots_pine",
+    "mapTo" : "scots_pine",
+    "class" : "Material",
+    "persistentId" : "330875d9-a440-444e-beb4-5be549fefcf7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/scots_pine_d.dds",
+        "minnaertConstant" : -2,
+        "normalMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/scots_pine_n.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/scots_pine_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 1, 0.8235290050506592, 0, 1 ],
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 93,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "Natural"
+  },
+  "scots_pine_branches" : {
+    "name" : "scots_pine_branches",
+    "mapTo" : "scots_pine_branches",
+    "class" : "Material",
+    "persistentId" : "12ece0fc-95cd-42d3-8cea-aaa1e7a3a81b",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/ECA_coast_bush/scots_pine_branches_d.dds",
+        "diffuseColor" : [ 0.9960780143737793, 0.9960780143737793, 0.9960780143737793, 1 ],
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 100,
+    "alphaTest" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  },
+  "scots_pine_trunk" : {
+    "name" : "scots_pine_trunk",
+    "mapTo" : "scots_pine_trunk",
+    "class" : "Material",
+    "persistentId" : "29f62cac-40a1-425e-91a1-74ce8c140843",
+    "Stages" : [
+      {
+        "colorMap" : "scots_pine_bark_d.dds",
+        "normalMap" : "scots_pine_bark_n.dds",
+        "specularMap" : "scots_pine_bark_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 85,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural"
+  }
+}

@@ -1,0 +1,22 @@
+{
+"holeMapPath":"/levels/crandon/theTerrain_holemap.png",
+"pos":{
+  "y":-767.625,
+  "x":-767.625,
+  "z":2.55
+},
+"opacityMaps":[
+  "/levels/crandon/theTerrain_layerMap_0_Grass.png",
+  "/levels/crandon/theTerrain_layerMap_1_dirt.png",
+  "/levels/crandon/theTerrain_layerMap_2_Grass2.png",
+  "/levels/crandon/theTerrain_layerMap_3_BeachSand.png",
+  "/levels/crandon/theTerrain_layerMap_4_dirt_grass.png",
+  "/levels/crandon/theTerrain_layerMap_5_ROCK.png",
+  "/levels/crandon/theTerrain_layerMap_6_Mud.png"
+],
+"heightMapPath":"/levels/crandon/theTerrain_heightmap.png",
+"type":"TerrainData",
+"squareSize":0.75,
+"name":"theTerrain",
+"heightScale":155
+}

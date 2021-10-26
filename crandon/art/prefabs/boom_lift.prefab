@@ -1,0 +1,53 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/boom_lift.dae";
+    position = "163.9967041015625 -184.5760040283203 25.141435623168945";
+    rotationMatrix = "0.9866414666175842 -0.16035717725753784 -0.028709106147289276 0.16000249981880188 0.9870135188102722 -0.014266997575759888 0.030624089762568474 0.009482881985604763 0.999485969543457";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/boom_lift.dae";
+    position = "-130.340087890625 292.8566589355469 30.63208770751953";
+    rotationMatrix = "-0.9866607189178467 0.16130247712135315 -0.02195807360112667 -0.161407470703125 -0.9868830442428589 0.003084643976762891 -0.02117248997092247 0.006587694399058819 0.9997541308403015";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/boom_lift.dae";
+    position = "133.48052978515625 -362.9629211425781 28.69607162475586";
+    rotationMatrix = "-0.5220461487770081 -0.8529090285301208 -0.003735871287062764 0.8522503972053528 -0.5218061804771423 0.03724955767393112 -0.03371988609433174 0.01626209169626236 0.9992989897727966";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/boom_lift.dae";
+    position = "262.5234375 95.18815612792969 25.08629035949707";
+    rotationMatrix = "0.6309980750083923 0.7742211222648621 -0.04922471195459366 -0.77577805519104 0.6299777626991272 -0.03600538894534111 0.003134342608973384 0.060906782746315 0.9981385469436646";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/boom_lift.dae";
+    position = "-346.5992126464844 121.42904663085938 25.60631561279297";
+    rotationMatrix = "0.631074070930481 0.7757225632667542 -0.0 -0.7757225632667542 0.631074070930481 0.0 0.0 0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

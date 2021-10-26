@@ -1,0 +1,80 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-407.25079345703125 304.9779052734375 28.476551055908203";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-415.8521423339844 318.4692687988281 28.5042667388916";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-424.45269775390625 331.9611511230469 28.580699920654297";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-433.0734558105469 345.4401550292969 28.655731201171875";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-441.6702575683594 358.9344177246094 28.718616485595703";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-450.2670593261719 372.4286804199219 28.724231719970703";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-458.8638610839844 385.9229431152344 28.656475067138672";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/pit_downpipe.dae";
+    position = "-467.4606628417969 399.4172058105469 28.58870506286621";
+    rotationMatrix = "0.5372995734214783 -0.843391478061676 -0.0 0.843391478061676 0.5372995734214783 0.0 0.0 -0.0 1.0";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

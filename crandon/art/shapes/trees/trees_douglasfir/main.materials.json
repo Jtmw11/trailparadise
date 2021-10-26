@@ -1,0 +1,127 @@
+{
+  "fir_bark" : {
+    "name" : "fir_bark",
+    "mapTo" : "fir_bark",
+    "class" : "Material",
+    "persistentId" : "b3b3d6cf-31d0-4b60-b91d-73c90e952e0e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_bark_d.dds",
+        "detailScale" : [ 0.1000000014901161, 0.1000000014901161 ],
+        "diffuseColor" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_bark_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_bark_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "NATURE",
+    "groundType" : "WOOD",
+    "materialTag0" : "vegetation",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural",
+    "specularStrength0" : "0.294118"
+  },
+  "fir_leaves" : {
+    "name" : "fir_leaves",
+    "mapTo" : "fir_leaves",
+    "class" : "Material",
+    "persistentId" : "6b56c08e-fab5-4f76-a683-e71c9df4b0f1",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_d.dds",
+        "detailNormalMapStrength" : 5,
+        "detailScale" : [ 1, 1 ],
+        "diffuseColor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.9960780143737793, 0.9254900217056274, 0.007843139581382275, 1 ],
+        "subSurfaceRolloff" : 1.049999952316284,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 70,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "specularStrength0" : "0.294118"
+  },
+  "fir_leaves_02" : {
+    "name" : "fir_leaves_02",
+    "mapTo" : "fir_leaves_02",
+    "class" : "Material",
+    "persistentId" : "932ff9e0-6739-45c4-8abb-dbbe3e897f55",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_02_d.dds",
+        "detailNormalMapStrength" : 5,
+        "detailScale" : [ 1, 1 ],
+        "diffuseColor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.9960780143737793, 0.9254900217056274, 0.007843139581382275, 1 ],
+        "subSurfaceRolloff" : 1.049999952316284,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 70,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "specularStrength0" : "0.294118"
+  },
+  "fir_leaves_dead" : {
+    "name" : "fir_leaves_dead",
+    "mapTo" : "fir_leaves_dead",
+    "class" : "Material",
+    "persistentId" : "ca2d7d38-abcb-4b82-b53c-356e019c3291",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_dead_d.dds",
+        "detailNormalMapStrength" : 5,
+        "detailScale" : [ 1, 1 ],
+        "diffuseColor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_dead_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_douglasfir/fir_leaves_dead_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.9960780143737793, 0.9254900217056274, 0.007843139581382275, 1 ],
+        "subSurfaceRolloff" : 1.049999952316284,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 45,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "specularStrength0" : "0.294118"
+  }
+}

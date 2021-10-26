@@ -1,0 +1,88 @@
+{
+  "Birch_Bark_01" : {
+    "name" : "Birch_Bark_01",
+    "mapTo" : "Birch_Bark_01",
+    "class" : "Material",
+    "persistentId" : "7e6b1fa9-c643-4269-9852-cd5bed7d7f88",
+    "Stages" : [
+      {
+        "baseColorFactor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "baseColorMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Bark_01_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Bark_01_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Bark_01_s.dds",
+        "specularPower" : 29
+      },
+      {},
+      {},
+      {}
+    ],
+    "groundType" : "WOOD",
+    "materialTag0" : "vegetation",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "materialTag4" : "east_coast_usa",
+    "version" : 0
+  },
+  "Birch_Branch_01" : {
+    "name" : "Birch_Branch_01",
+    "mapTo" : "Birch_Branch_01",
+    "class" : "Material",
+    "persistentId" : "cdcd2e67-85e4-4007-8d7f-87cf918b6f08",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_branch_01_d.dds",
+        "diffuseColor" : [ 0.8431373238563538, 0.8431373238563538, 0.8431373238563538, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_branch_01_n.dds",
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_branch_01_s.dds",
+        "specularPower" : 36,
+        "subSurfaceColor" : [ 0.9960780143737793, 0.9254900217056274, 0.007843139581382275, 1 ],
+        "subSurfaceRolloff" : 1.049999952316284,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 40,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation"
+  },
+  "Birch_Leaves_01" : {
+    "name" : "Birch_Leaves_01",
+    "mapTo" : "Birch_Leaves_01",
+    "class" : "material",
+    "persistentId" : "489a3fa6-1f6b-45d9-ba5f-c23e0b404f47",
+    "Stages" : [
+      {
+        "baseColorFactor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "baseColorMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Leaves_d.dds",
+        "normalMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Leaves_02_n.dds",
+        "specular" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/trees/trees_aspen/Birch_Leaves_s.dds",
+        "specularPower" : 1,
+        "subSurfaceColor" : [ 0.9960780143737793, 0.9254900217056274, 0.007843139581382275, 1 ],
+        "subSurfaceRolloff" : 1.049999952316284,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 60,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "materialTag4" : "east_coast_usa",
+    "version" : 0
+  }
+}

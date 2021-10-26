@@ -1,0 +1,98 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-313.39801025390625 436.3297424316406 31.0531063079834";
+    rotationMatrix = "-0.05694826692342758 -0.998374879360199 -0.002128705382347107 0.9983707666397095 -0.056940145790576935 -0.003699459135532379 0.0035722381435334682 -0.0023359148763120174 0.9999908804893494";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-313.4860534667969 422.9438171386719 30.958255767822266";
+    rotationMatrix = "0.06513532996177673 -0.9973902106285095 -0.03114824928343296 0.9976148009300232 0.064371757209301 0.0249197855591774 -0.022849682718515396 -0.03269711136817932 0.9992040991783142";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-12.717361450195312 -109.19821166992188 26.6782283782959";
+    rotationMatrix = "-0.12194301933050156 -0.9918035864830017 -0.03815114498138428 0.9925342798233032 -0.12176109105348587 -0.007065079640597105 0.002361846389248967 -0.038727857172489166 0.9992470145225525";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-11.619232177734375 -123.66734313964844 26.07003402709961";
+    rotationMatrix = "0.9572615623474121 -0.2891932725906372 -0.004184494260698557 0.2892172336578369 0.9570450782775879 0.020448649302124977 -0.001908862148411572 -0.020784933120012283 0.999782145023346";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-13.840591430664062 -120.97599792480469 26.15426254272461";
+    rotationMatrix = "-0.12203043699264526 -0.991658627986908 -0.041494112461805344 0.9925193190574646 -0.12208005040884018 -0.0013456714805215597 -0.003731156699359417 -0.0413479246199131 0.999137818813324";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-390.3853759765625 148.51797485351562 27.426332473754883";
+    rotationMatrix = "0.27515605092048645 -0.9590849876403809 0.06667150557041168 0.9579042196273804 0.2675875127315521 -0.10400205105543137 0.08190634846687317 0.09248171001672745 0.9923399090766907";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-384.83349609375 148.38221740722656 27.347579956054688";
+    rotationMatrix = "0.9974254965782166 -0.06997203826904297 -0.015695124864578247 0.0680789202451706 0.9927220344543457 -0.09933873265981674 0.02253182977437973 0.0980144739151001 0.9949299097061157";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-387.6935119628906 148.58082580566406 27.37145233154297";
+    rotationMatrix = "0.9988449215888977 -0.047816015779972076 -0.004744062200188637 0.04714411124587059 0.9942985773086548 -0.09564423561096191 0.009290340356528759 0.09531009942293167 0.9954043030738831";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-371.445556640625 147.2489471435547 26.909299850463867";
+    rotationMatrix = "0.9984289407730103 -0.05004337430000305 -0.02520616725087166 0.046600162982940674 0.9913857579231262 -0.12240398675203323 0.031114542856812477 0.1210370734333992 0.9921602010726929";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/buildings/hr_plasticbarrier_red.dae";
+    position = "-368.58551025390625 147.0503387451172 26.6848087310791";
+    rotationMatrix = "0.9857555031776428 -0.08435036987066269 -0.14550308883190155 0.06512870639562607 0.9890871644020081 -0.13215449452400208 0.15506252646446228 0.1207955926656723 0.9804917573928833";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

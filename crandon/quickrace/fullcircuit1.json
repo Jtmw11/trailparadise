@@ -1,0 +1,34 @@
+{
+  "name":"quickrace.hirochi_raceway.fullcircuit1.title",
+  "description":"quickrace.hirochi_raceway.fullcircuit1.description",
+  "authors":"BeamNG",
+  "difficulty":"16",
+  "date":1432914025,
+  "lapCount":1,
+  "radiusMultiplierAI": 2,
+  "closed": true,
+  "reversible" : true,
+  "allowRollingStart": true,
+  "prefabs": [
+    "race_barriers_3a",
+    "race_barriers_16e",
+    "race_barriers_6b",
+    "race_barriers_8b",
+    "race_barriers_9a",
+    "race_barriers_10a",
+    "race_barriers_11c",
+    "race_barriers_12a",
+    "race_barriers_14a",
+    "race_barriers_15b",
+    "race_barriers_5c",
+    "race_barriers_4a",
+    "hirochi_finishline"
+  ],
+ "lapConfig" : [
+      "quickrace_wp1",
+      "quickrace_wp2",
+      "quickrace_wp3",
+      "quickrace_wp4",
+    ],
+ "finishLineCheckpoint":"hr_start"
+}

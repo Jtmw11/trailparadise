@@ -1,0 +1,24 @@
+{
+  "cubemap_hirochi_raceway_reflection" : {
+    "name" : "cubemap_hirochi_raceway_reflection",
+    "class" : "CubemapData",
+    "cubeFace" : [
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_1.dds",
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_2.dds",
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_3.dds",
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_4.dds",
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_5.dds",
+      "/levels/crandon/art/cubemaps/cubemap_hirochi_raceway_reflection/cubemap/skybox_6.dds"
+    ]
+  },
+  "hirochi_raceway_reflection" : {
+    "name" : "hirochi_raceway_reflection",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "Stages" : [ {}, {}, {}, {} ],
+    "cubemap" : "cubemap_hirochi_raceway_reflection",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural",
+    "materialTag2" : "BNG_sky"
+  }
+}

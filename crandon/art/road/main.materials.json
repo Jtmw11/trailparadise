@@ -1,0 +1,232 @@
+{
+  "bank_erosion" : {
+    "name" : "bank_erosion",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "f3630099-fc70-4cd0-863d-144ab37cb640",
+    "Stages" : [
+      {
+        "colorMap" : "/levels/hirochi_raceway/art/road/bank_d.dds",
+        "diffuseColor" : [
+          0.8941177129745483,
+          0.8431373238563538,
+          0.7764706611633301,
+          0.6000000238418579
+        ],
+        "normalMap" : "/levels/hirochi_raceway/art/road/bank_n.dds",
+        "scrollSpeed" : 4.118000030517578,
+        "specular" : [ 0.992156982421875, 0.992156982421875, 0.992156982421875, 1 ],
+        "specularMap" : "/levels/hirochi_raceway/art/road/bank_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 100,
+    "alphaTest" : true,
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "specularStrength0" : "0.490196",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "dirt_road_base" : {
+    "name" : "dirt_road_base",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "2a64aeb0-112e-4370-a529-3f1bee49d15d",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/dirt_road_base_d.dds",
+        "normalMap" : "levels/hirochi_raceway/art/road/dirt_road_base_n.dds",
+        "specularMap" : "levels/hirochi_raceway/art/road/dirt_road_base_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 176,
+    "annotation" : "SAND",
+    "materialTag0" : "beamng",
+    "materialTag1" : "RoadAndPath",
+    "specularStrength0" : "0.392157",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "hr_grasslines_road_d" : {
+    "name" : "hr_grasslines_road_d",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "3fce4f30-9302-4245-b62b-e45428ac14b7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/hr_grasslines_road_d.dds",
+        "diffuseColor" : [ 0.8196079730987549, 0.8352940082550049, 0.792156994342804, 1 ],
+        "specular" : [ 0.9960780143737793, 0.9960780143737793, 0.9960780143737793, 1 ],
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "castShadows" : false,
+    "materialTag0" : "beamng",
+    "materialTag1" : "RoadAndPath",
+    "materialTag2" : "RoadAndPath",
+    "specularStrength0" : "1.56863",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "hr_sandlines_road_d" : {
+    "name" : "hr_sandlines_road_d",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "5a680aa1-9150-4084-9e12-5c8525775762",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/hr_sandlines_road_d.dds",
+        "diffuseColor" : [ 0.8196079730987549, 0.8352940082550049, 0.792156994342804, 1 ],
+        "specular" : [ 0.9960780143737793, 0.9960780143737793, 0.9960780143737793, 1 ],
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "castShadows" : false,
+    "materialTag0" : "beamng",
+    "materialTag1" : "RoadAndPath",
+    "materialTag2" : "RoadAndPath",
+    "specularStrength0" : "1.56863",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "road_dirt_tracks_furrows" : {
+    "name" : "road_dirt_tracks_furrows",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "cfb10278-97f8-49ad-979a-873663719078",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/dirtroad_tracks_furrows_d.dds",
+        "diffuseColor" : [ 0.7568628191947937, 0.7411764860153198, 0.6352941393852234, 0.5 ],
+        "normalMap" : "levels/hirochi_raceway/art/road/dirtroad_tracks_n.dds",
+        "specularMap" : "levels/hirochi_raceway/art/road/dirtroad_tracks_furrows_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "castShadows" : false,
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural",
+    "specularStrength0" : "0",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "road_dirt_tracks_wet" : {
+    "name" : "road_dirt_tracks_wet",
+    "mapTo" : "unmapped_mat",
+    "class" : "material",
+    "persistentId" : "79795ccb-f7cd-4141-a562-e80f883a972c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/dirtroad_tracks_wet_d.dds",
+        "diffuseColor" : [
+          0.5607843399047852,
+          0.529411792755127,
+          0.4745098352432251,
+          0.8999999761581421
+        ],
+        "normalMap" : "levels/hirochi_raceway/art/road/dirtroad_tracks_wet_n.dds",
+        "pixelSpecular" : true,
+        "specular" : [ 0.364705890417099, 0.364705890417099, 0.364705890417099, 1 ],
+        "specularPower" : 90,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "castShadows" : false,
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "materialTag2" : "Natural",
+    "materialTag3" : "vegetation",
+    "materialTag4" : "east_coast_usa",
+    "specularStrength0" : "0",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "road_edge_grass" : {
+    "name" : "road_edge_grass",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "fbf4a9f7-d488-42ba-ad72-f7f322e29d10",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/Asphalt_road_grass_edge_d.dds",
+        "diffuseColor" : [
+          0.9960784912109375,
+          0.9960784912109375,
+          0.9921569228172302,
+          0.8999999761581421
+        ],
+        "normalMap" : "levels/hirochi_raceway/art/road/Asphalt_road_grass_edge_n.dds",
+        "specular" : [ 0.5450980067253113, 0.5450980067253113, 0.5450980067253113, 1 ],
+        "specularMap" : "levels/hirochi_raceway/art/road/Asphalt_road_grass_edge_s.dds",
+        "useAnisotropic" : true
+      },
+      {
+        "specular" : [
+          0.5215690135955811,
+          0.5215690135955811,
+          0.5215690135955811,
+          0.00800000037997961
+        ],
+        "useAnisotropic" : true
+      },
+      {},
+      {}
+    ],
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "specularStrength0" : "0.490196",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "road_invisible" : {
+    "name" : "road_invisible",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "2734c9fa-d2d0-475e-aa8c-167b7d0a7fdd",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/road/invisible.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 127,
+    "alphaTest" : true,
+    "annotation" : "STREET",
+    "castShadows" : false,
+    "materialTag0" : "RoadAndPath",
+    "materialTag1" : "beamng",
+    "specularStrength0" : "0"
+  }
+}

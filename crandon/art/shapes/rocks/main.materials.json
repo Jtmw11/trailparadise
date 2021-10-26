@@ -1,0 +1,27 @@
+{
+  "eca_rocks" : {
+    "name" : "eca_rocks",
+    "mapTo" : "eca_rocks",
+    "class" : "Material",
+    "persistentId" : "b3409afb-581d-45ce-a398-5c8f334ac6bc",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/rocks/eca_rocks_d.dds",
+        "detailNormalMap" : "levels/crandon/art/shapes/rocks/italy_rocksface_detail_n.dds",
+        "detailNormalMapStrength" : 0.300000011920929,
+        "detailScale" : [ 8, 8 ],
+        "diffuseColor" : [ 1, 1, 0.9990000128746033, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/rocks/eca_rocks_n.dds",
+        "specularMap" : "levels/crandon/art/shapes/rocks/eca_rocks_s.dds",
+        "specularPower" : 1
+      },
+      {},
+      {},
+      {}
+    ],
+    "groundType" : "rock",
+    "materialTag0" : "beamng",
+    "materialTag1" : "Natural",
+    "translucentBlendOp" : "None"
+  }
+}

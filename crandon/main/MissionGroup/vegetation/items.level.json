@@ -1,0 +1,2 @@
+{"class":"ForestWindEmitter","persistentId":"c020a885-c0f2-45a4-95c3-85406984e334","__parent":"vegetation","position":[24,-89,124],"strength":0.200000003}
+{"name":"theForest","class":"Forest","persistentId":"b1d83d47-db5f-47e2-b3e3-417c00a4ec10","__parent":"vegetation","lodReflectScalar":0.150000006}

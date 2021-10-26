@@ -1,0 +1,29 @@
+{
+  "signs_usa" : {
+    "name" : "signs_usa",
+    "mapTo" : "signs_usa",
+    "class" : "Material",
+    "persistentId" : "ac431a82-d509-4eeb-99f3-83d31e2e8bb7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/signs_usa/eca_roadsigns_d.dds",
+        "pixelSpecular" : true,
+        "specularMap" : "levels/crandon/art/shapes/signs_usa/eca_roadsigns_s.dds",
+        "specularPower" : 32,
+        "subSurface" : true,
+        "subSurfaceColor" : [ 0.9960784912109375, 0.9882353544235229, 0.9882353544235229, 1 ],
+        "useAnisotropic" : true,
+        "vertColor" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 64,
+    "alphaTest" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vehicle",
+    "materialTag2" : "hirochi_raceway",
+    "translucentBlendOp" : "None"
+  }
+}

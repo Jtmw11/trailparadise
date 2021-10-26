@@ -1,0 +1,92 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0.000000 0.000000 0.379855";
+
+   new TSStatic() {
+      shapeName = "/levels/hirochi_raceway/art/shapes/buildings/hr_tire_mod.DAE";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0 0 0.37985456";
+      scale = "1 1 1";
+      rotationMatrix = "-0.925114095 -0.379688174 0 0.379688174 -0.925114095 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "/levels/hirochi_raceway/art/shapes/buildings/hr_tire_mod.DAE";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0 0 0.125562727";
+      scale = "1 1 1";
+      rotationMatrix = "-0.372070014 0.928204656 0 -0.928204656 -0.372070014 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "/levels/hirochi_raceway/art/shapes/buildings/hr_tire_mod.DAE";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0 0 -0.125562727";
+      scale = "1 1 1";
+      rotationMatrix = "0.341091394 -0.940030158 0 0.940030158 0.341091394 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "/levels/hirochi_raceway/art/shapes/buildings/hr_tire_mod.DAE";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "0 0 -0.37985462";
+      scale = "1 1 1";
+      rotationMatrix = "0.990729094 0.135853335 0 -0.135853335 0.990729094 0 0 0 1";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+};
+//--- OBJECT WRITE END ---

@@ -1,0 +1,243 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0.000000 0.000000 0.000000";
+
+   new Prefab() {
+      FileName = "/levels/hirochi_raceway/art/prefabs/barriers_red_forgotten_raceway.prefab";
+      loadMode = "Automatic";
+      useGlobalTranslation = "0";
+      position = "0 0 0";
+      scale = "1 1 1";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new Prefab() {
+      FileName = "/levels/hirochi_raceway/art/prefabs/barriers_white_forgotten_raceway.prefab";
+      loadMode = "Automatic";
+      useGlobalTranslation = "0";
+      position = "0 0 0";
+      scale = "1 1 1";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_15) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-388.248993 438.570007 32.096199";
+      scale = "9.98908043 9.98908043 9.98908043";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_14) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-283.764008 425.864014 30.7199001";
+      scale = "5.04974985 5.04974985 5.04974985";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_13) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-134.317993 420.27301 32.4356003";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_12) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "144.671005 348.535004 30.3497009";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_11) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "356.569 182.455002 29.4874992";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_10) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "492.690002 118.644997 30.1620007";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_9) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "574.867004 -32.9989014 48.6674995";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_8) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "436.772003 -178.606995 34.8576012";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_7) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "315.532013 -320.273987 40.5312004";
+      scale = "6.04152012 6.04152012 6.04152012";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_6) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "172.169998 -419.968994 31.8155003";
+      scale = "6.04152012 6.04152012 6.04152012";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_5) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "56.4942017 -238.337006 25.2317009";
+      scale = "6.04152012 6.04152012 6.04152012";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_4) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-124.730003 -192.406006 34.4900017";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_3) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-260.98999 -205.914001 40.1567993";
+      scale = "4.06201982 4.06201982 4.06201982";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_2) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-336.605988 31.8810997 25.2112999";
+      scale = "5 5 5";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new BeamNGWaypoint(Checkpoint_1) {
+      drawDebug = "0";
+      directionalWaypoint = "0";
+      position = "-376.437012 166.764008 25.1553001";
+      scale = "5 5 5";
+      rotationMatrix = "1 0 0 0 1 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new SpawnSphere(forgotten_raceway_rollingReverse_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-349.345001 47.8422012 25.0998001";
+      scale = "1 1 1";
+      rotationMatrix = "-0.768250108 -0.640149832 0 0.640149832 -0.768250108 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_rolling_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway_standingReverse_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-447.952759 353.951233 25.2451992";
+      scale = "1 1 1";
+      rotationMatrix = "-0.846640766 -0.53216517 0 0.53216517 -0.846640766 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_standing_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway_rolling_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-450.031281 467.931946 32.2609177";
+      scale = "1 1 1";
+      rotationMatrix = "0.0455024242 -0.99896425 0 0.99896425 0.0455024242 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         cloneOrigin = "forgotten_raceway_standing_spawn";
+         Enabled = "1";
+   };
+   new SpawnSphere(forgotten_raceway_standing_spawn) {
+      autoSpawn = "0";
+      spawnTransform = "0";
+      radius = "100";
+      datablock = "SpawnSphereMarker";
+      position = "-450.983856 358.554626 25.2451992";
+      scale = "1 1 1";
+      rotationMatrix = "0.842945755 0.537998378 0 -0.537998378 0.842945755 0 0 0 1";
+      mode = "Ignore";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+         autoplaceOnSpawn = "0";
+         Enabled = "1";
+   };
+};
+//--- OBJECT WRITE END ---
+
+
+
+

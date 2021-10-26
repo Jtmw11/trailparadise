@@ -1,0 +1,58 @@
+{
+  "hr_backdrop_terrain" : {
+    "name" : "hr_backdrop_terrain",
+    "mapTo" : "hr_backdrop_terrain",
+    "class" : "Material",
+    "persistentId" : "ebe21ddf-951e-477a-9546-e669dc7c749a",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/terrain/HR_backdrop_d.dds",
+        "normalMap" : "levels/hirochi_raceway/art/terrain/HR_backdrop_n.dds",
+        "vertColor" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "NATURE",
+    "materialTag0" : "beamng",
+    "materialTag1" : "building",
+    "specularColor0" : "0.1 0.1 0.1 0.1",
+    "specularStrength0" : "0.05",
+    "translucentBlendOp" : "None"
+  },
+  "invisible" : {
+    "name" : "invisible",
+    "mapTo" : "invisible",
+    "class" : "Material",
+    "persistentId" : "0e99da4b-e332-43d6-99f1-3676dda5d118",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/shapes/invisible.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 64,
+    "alphaTest" : true
+  },
+  "shock_absorber" : {
+    "name" : "shock_absorber",
+    "mapTo" : "shock_absorber",
+    "class" : "Material",
+    "persistentId" : "7e4ff354-e260-4edc-8348-7635154b0b80",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/shapes/invisible.dds"
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 64,
+    "alphaTest" : true,
+    "groundDepth" : 0.6000000238418579,
+    "groundType" : "shock_absorber"
+  }
+}

@@ -1,0 +1,35 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+  canSave = "1";
+  canSaveDynamicFields = "1";
+  groupPosition = "0 0 0";
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/excavator.dae";
+    position = "-115.08574676513672 33.5243034362793 25.47281265258789";
+    rotationMatrix = "0.9965498447418213 -0.08299663662910461 -4.028156399726868e-05 0.08298802375793457 0.9964531660079956 -0.01393174659460783 0.0011964268051087856 0.013880336657166481 0.9999029636383057";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/excavator.dae";
+    position = "-576.0802001953125 -64.29025268554688 24.945615768432617";
+    rotationMatrix = "0.1590670496225357 -0.9870486259460449 -0.020800437778234482 0.9872109889984131 0.15924857556819916 -0.0073726847767829895 0.010589638724923134 -0.019361669197678566 0.9997564554214478";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+  new TSStatic() {
+    shapeName = "levels/hirochi_raceway/art/shapes/objects/excavator.dae";
+    position = "-465.8004455566406 11.42413330078125 28.887563705444336";
+    rotationMatrix = "-0.11173646152019501 -0.9928887486457825 -0.041071660816669464 0.9921991229057312 -0.11376723647117615 0.050969190895557404 -0.05527934432029724 -0.03505615144968033 0.9978553056716919";
+    scale = "1.0 1.0 1.0";
+    decalType = "Collision Mesh";
+    collisionType = "Collision Mesh";
+  };
+
+};
+//--- OBJECT WRITE END ---

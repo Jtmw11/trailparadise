@@ -1,0 +1,107 @@
+//--- OBJECT WRITE BEGIN ---
+$ThisPrefab = new SimGroup() {
+   order_simset = "0";
+   canSave = "1";
+   canSaveDynamicFields = "1";
+      groupPosition = "0 0 0";
+
+   new TSStatic() {
+      shapeName = "levels/hirochi_raceway/art/shapes/objects/gazebo_red.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      instanceColor1 = "White";
+      instanceColor2 = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-226.036804 357.868835 30.2343254";
+      scale = "0.5 0.50000006 0.5";
+      rotationMatrix = "0.882305562 -0.469070286 0.0388586298 0.469550431 0.882897675 -0.00375424232 -0.0325471908 0.0215584747 0.999237657";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      order_simset = "-2139083732";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/hirochi_raceway/art/shapes/objects/gazebo_red.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      instanceColor1 = "White";
+      instanceColor2 = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "51.732666 23.3596268 28.347805";
+      scale = "0.5 0.50000006 0.5";
+      rotationMatrix = "0.951690018 0.304591745 0.038858626 -0.304680794 0.952447116 -0.00375424372 -0.0381543003 -0.00826660078 0.999237657";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      order_simset = "0";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/hirochi_raceway/art/shapes/objects/gazebo_red.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      instanceColor1 = "White";
+      instanceColor2 = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-468.997681 374.314453 27.883646";
+      scale = "0.5 0.50000006 0.5";
+      rotationMatrix = "0.836369336 0.546787262 0.0388586074 -0.547074497 0.837075472 -0.00375424512 -0.0345803611 -0.0181186181 0.999237657";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      order_simset = "0";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+   new TSStatic() {
+      shapeName = "levels/hirochi_raceway/art/shapes/objects/gazebo_red.dae";
+      dynamic = "0";
+      playAmbient = "1";
+      meshCulling = "0";
+      originSort = "0";
+      useInstanceRenderData = "0";
+      instanceColor = "White";
+      instanceColor1 = "White";
+      instanceColor2 = "White";
+      collisionType = "Collision Mesh";
+      decalType = "Collision Mesh";
+      prebuildCollisionData = "0";
+      renderNormals = "0";
+      forceDetail = "-1";
+      position = "-446.357269 338.555298 27.917942";
+      scale = "0.5 0.50000006 0.5";
+      rotationMatrix = "0.836369336 0.546787262 0.0388586074 -0.547074497 0.837075472 -0.00375424698 -0.0345803611 -0.0181186162 0.999237657";
+      isRenderEnabled = "false";
+      mode = "Ignore";
+      order_simset = "0";
+      canSave = "1";
+      canSaveDynamicFields = "1";
+   };
+};
+//--- OBJECT WRITE END ---
+
+

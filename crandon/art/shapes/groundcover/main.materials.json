@@ -1,0 +1,111 @@
+{
+  "BNGGrass" : {
+    "name" : "BNGGrass",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "904bd9d8-dacd-4ff2-8363-fe783491e84c",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/groundcover/Grass_Green_d.dds",
+        "diffuseColor" : [ 0.9960784912109375, 0.9960784912109375, 0.9960784912109375, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/groundcover/Grass_Green_n.dds",
+        "specular" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/groundcover/Grass_Green_s.dds",
+        "specularPower" : 71,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 70,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "vegetation",
+    "materialTag3" : "Natural",
+    "materialTag4" : "east_coast_usa",
+    "translucentBlendOp" : "None"
+  },
+  "Groundcover_spring" : {
+    "name" : "Groundcover_spring",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "a457fcc4-556f-4320-9957-38e423d01f19",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/groundcover/forest_vegetation_d.dds",
+        "diffuseColor" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "specular" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "specularMap" : "levels/crandon/art/shapes/groundcover/forest_vegetation_s.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 45,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "vegetation",
+    "materialTag3" : "Natural",
+    "materialTag4" : "east_coast_usa"
+  },
+  "forest_vegetation" : {
+    "name" : "forest_vegetation",
+    "mapTo" : "forest_vegetation",
+    "class" : "Material",
+    "persistentId" : "792eadfc-1f77-4fe8-bced-90e4ce4a207a",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/groundcover/forest_vegetation_d.dds",
+        "diffuseColor" : [ 0.9921569228172302, 0.9921569228172302, 0.9921569228172302, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/groundcover/forest_vegetation_n.dds",
+        "pixelSpecular" : true,
+        "specular" : [ 0.5019609928131104, 0.5019609928131104, 0.5019609928131104, 1 ],
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 80,
+    "alphaTest" : true,
+    "annotation" : "NATURE",
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation",
+    "materialTag2" : "vegetation",
+    "materialTag3" : "Natural",
+    "materialTag4" : "east_coast_usa"
+  },
+  "grass_trimmed" : {
+    "name" : "grass_trimmed",
+    "mapTo" : "unmapped_mat",
+    "class" : "Material",
+    "persistentId" : "c271c0e4-cc74-4892-9c37-cd022ff5fe62",
+    "Stages" : [
+      {
+        "colorMap" : "levels/crandon/art/shapes/groundcover/grass_trimmed_d.dds",
+        "diffuseColor" : [ 0.9960780143737793, 0.9960780143737793, 0.9960780143737793, 1 ],
+        "normalMap" : "levels/crandon/art/shapes/groundcover/grass_trimmed_n.dds",
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 60,
+    "alphaTest" : true,
+    "doubleSided" : true,
+    "materialTag0" : "beamng",
+    "materialTag1" : "vegetation"
+  }
+}

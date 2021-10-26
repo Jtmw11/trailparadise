@@ -1,0 +1,132 @@
+{
+  "Road_01_tracks_large_decal_01" : {
+    "name" : "Road_01_tracks_large_decal_01",
+    "mapTo" : "Road_01_tracks_large_decal_01",
+    "class" : "Material",
+    "persistentId" : "f58d06cd-cd10-4bf1-a5b0-dfbcdf42e51e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/road-01_tracks_large_decal_01.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "castShadows" : false,
+    "materialTag0" : "beamng",
+    "materialTag1" : "decal",
+    "materialTag2" : "RoadAndPath",
+    "specularStrength0" : "0.196078",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "oilstains" : {
+    "name" : "oilstains",
+    "mapTo" : "oilstains",
+    "class" : "Material",
+    "persistentId" : "24bf97a7-390c-45ae-b349-d8d291d6e3b0",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/oilstains_d.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "decal",
+    "materialTag1" : "road",
+    "materialTag2" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "roadmarkings" : {
+    "name" : "roadmarkings",
+    "mapTo" : "roadmarkings",
+    "class" : "Material",
+    "persistentId" : "b55f668c-042d-4a69-aebe-f4d1bf60229e",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/decal_roadmarkings_d.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "annotation" : "DRIVING_INSTRUCTIONS",
+    "materialTag0" : "decal",
+    "materialTag1" : "road",
+    "materialTag2" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "sponsors" : {
+    "name" : "sponsors",
+    "mapTo" : "sponsors",
+    "class" : "Material",
+    "persistentId" : "53049a9b-53a4-4331-bca0-90f86e832d50",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/decals_sponsors_d.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "alphaRef" : 0,
+    "materialTag0" : "decal",
+    "materialTag1" : "road",
+    "materialTag2" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "terrain_transitions" : {
+    "name" : "terrain_transitions",
+    "mapTo" : "terrain_transitions",
+    "class" : "Material",
+    "persistentId" : "29558b5c-962b-426e-a971-c6ade55496f7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/terrain_transitions_d.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "decal",
+    "materialTag1" : "road",
+    "materialTag2" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  },
+  "scrapes" : {
+    "name" : "scrapes",
+    "mapTo" : "scrapes",
+    "class" : "Material",
+    "persistentId" : "29558b5c-962b-426e-a971-c6ade55496f7",
+    "Stages" : [
+      {
+        "colorMap" : "levels/hirochi_raceway/art/decals/decal_scrapes_d.dds",
+        "specularPower" : 1,
+        "useAnisotropic" : true
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0" : "decal",
+    "materialTag1" : "road",
+    "materialTag2" : "beamng",
+    "translucent" : true,
+    "translucentZWrite" : true
+  }
+}

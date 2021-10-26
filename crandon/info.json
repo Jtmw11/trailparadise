@@ -1,0 +1,40 @@
+{
+	"title": "bounce me",
+	"description": "",
+	"previews": ["hirochi_raceway_preview.jpg"],
+	"size": [1024, 1024],
+	"country": "levels.common.country.usa",
+	"biome": "",
+	"roads": "",
+	"suitablefor": "levels.hirochi_raceway.info.suitablefor",
+	"features": "levels.hirochi_raceway.info.features",
+	"authors": "BeamNG",
+    "defaultSpawnPointName":"spawn_pitlane",
+"spawnPoints":[
+  {
+    "translationId":"levels.hirochi_raceway.spawnpoints.spawn_figure8",
+    "objectname":"spawn_figure8",
+    "preview":"spawn_figure8_preview.jpg"
+  },
+  {
+    "translationId":"levels.hirochi_raceway.spawnpoints.spawn_pitlane",
+    "objectname":"spawn_pitlane",
+    "preview":"spawn_pitlane_preview.jpg"
+  },
+  {
+    "translationId":"levels.hirochi_raceway.spawnpoints.spawn_paddock",
+    "objectname":"spawn_paddock",
+    "preview":"spawn_paddock_preview.jpg"
+  },
+  {
+    "translationId":"levels.hirochi_raceway.spawnpoints.spawn_startline",
+    "objectname":"spawn_startline",
+    "preview":"spawn_startline_preview.jpg"
+  },
+  {
+    "translationId":"levels.hirochi_raceway.spawnpoints.spawn_crawl",
+    "objectname":"spawn_crawl",
+    "preview":"spawn_crawl_preview.jpg"
+  }
+]
+}

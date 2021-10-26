@@ -1,0 +1,43 @@
+{
+  "segments" : {
+
+    "derby_cross" : {
+      "nodes" : ["derby_wp1", "derby_wp2", "derby_wp3", "derby_wp4", "derby_wp5", "derby_wp6", "derby_wp7", "derby_wp8", "derby_wp9", "derby_wp10", "derby_wp11", "derby_wp12", "derby_wp13", "derby_wp14", "derby_wp15", "derby_wp16", "derby_wp17", "derby_wp18", "derby_wp19", "derby_wp20", "derby_wp21", "derby_wp22", "derby_wp23", "derby_wp24", "derby_wp25", "derby_wp26", "derby_wp27", "derby_wp1"],
+      "drivability" : 1
+    },
+	
+	"hr_bridge_a" : {
+      "nodes" : ["hr_bridge1", "hr_bridge2"],
+      "drivability" : 1
+    },
+	
+	"hr_bridge_b" : {
+      "nodes" : ["hr_bridge3", "hr_bridge4"],
+      "drivability" : 1
+    },
+	
+	"hr_bridge_c" : {
+      "nodes" : ["hr_bridge6", "hr_bridge5"],
+      "drivability" : 1
+    },
+	
+	"hr_bridge_d" : {
+      "nodes" : ["hr_bridge7", "hr_bridge7b", "hr_bridge8"],
+      "drivability" : 1
+	  "oneWay": true,
+      "flipDirection": false,
+    },
+	
+	"hr_bridge_e" : {
+      "nodes" : ["hr_bridge9", "hr_bridge9b", "hr_bridge10"],
+      "drivability" : 1
+    },
+	
+	"hr_bridge_f" : {
+      "nodes" : ["hr_bridge11", "hr_bridge12", "hr_bridge13"],
+      "drivability" : 1
+	  "oneWay": true,
+      "flipDirection": false,
+    },
+ }
+}
