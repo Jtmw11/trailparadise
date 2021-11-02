@@ -1,0 +1,58 @@
+{
+  "Grid512_ForestGreenLines_Mat": {
+    "name": "Grid512_ForestGreenLines_Mat",
+    "mapTo": "collmesh1",
+    "class": "material",
+    "persistentId": "d9277780-b73c-4bbf-8fc5-157a38a15f1f",
+    "Stages": [
+      {
+        "colorMap": "/core/art/grids/512_forestgreen_lines"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "TestMaterial",
+    "order_simset": 1075847712
+  },
+  "rocknl01": {
+    "name": "rocknl01",
+    "mapTo": "rocknl01",
+    "class": "Material",
+    "persistentId": "9e1d88ab-1985-4sda-b5ab-8048c5dab104",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.402999997,
+        "specularMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1051985722
+  },
+  "cliff02": {
+    "name": "cliff02",
+    "mapTo": "cliff02",
+    "class": "Material",
+    "persistentId": "9e1d88ab-1985-asdc-b5ab-8048c5dab104",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rocksnl/cliff02_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rocksnl/cliff02_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.402999997,
+        "specularMap": "levels/crandon/art/shapes/rocks/rocksnl/cliff02_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1051984522
+  }
+}

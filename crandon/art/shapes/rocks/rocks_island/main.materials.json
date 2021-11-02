@@ -1,0 +1,30 @@
+{
+  "jri_rocks": {
+    "name": "jri_rocks",
+    "mapTo": "jri_rocks",
+    "class": "Material",
+    "persistentId": "6c071962-a8ff-4146-a7e0-b6185262b593",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_d.color.DDS",
+        "detailMap": "/levels/crandon/art/shapes/rocks/rocks_island/pac_rocks_detail_d.data.dds",
+        "detailNormalMap": "/levels/crandon/art/shapes/rocks/rocks_island/pac_rocks_detail_n.normal.png",
+        "detailScale": [
+          32,
+          32
+        ],
+        "normalMap": "/levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_n.normal.dds",
+        "specularMap": "/levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_s.color.png",
+        "useAnisotropic": true,
+        "vertColor": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "groundType": "ROCK",
+    "materialTag0": "beamng",
+    "materialTag1": "Natural",
+    "translucentBlendOp": "None"
+  }
+}

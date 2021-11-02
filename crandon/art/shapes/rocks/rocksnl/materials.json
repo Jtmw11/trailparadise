@@ -1,0 +1,22 @@
+{
+  "rocknl01": {
+    "name": "rocknl01",
+    "mapTo": "rocknl01",
+    "class": "material",
+    "persistentId": "b0aad5b8-f81e-444e-85fc-3150f598d957",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/rocksnl/rocknl01_s.dds",
+        "useAnisotropic": true,
+        "vertColor": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1053926143,
+    "translucentBlendOp": "None"
+  }
+}

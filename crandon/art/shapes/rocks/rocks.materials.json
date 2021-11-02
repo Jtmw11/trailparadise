@@ -1,0 +1,272 @@
+{
+  "Grid512_ForestGreenLines_Mat": {
+    "name": "Grid512_ForestGreenLines_Mat",
+    "mapTo": "collmesh1",
+    "class": "material",
+    "persistentId": "d9277780-b73c-4bbf-8fc5-157a38a15f1f",
+    "Stages": [
+      {
+        "colorMap": "/core/art/grids/512_forestgreen_lines"
+      },
+      {},
+      {},
+      {}
+    ],
+    "materialTag0": "TestMaterial",
+    "order_simset": 1075847712
+  },
+  "moss_rock_11": {
+    "name": "moss_rock_11",
+    "mapTo": "moss_rock_11",
+    "class": "Material",
+    "persistentId": "9e1d88ab-9965-491e-b5ab-8048c5dab104",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/moss_rock11_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/Macro3.dds",
+        "detailNormalMap": "/levels/crandon/art/shapes/rocks/Macro_n.dds",
+        "detailScale": [
+          8,
+          8
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/moss_rock11_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.402999997,
+        "specularMap": "levels/crandon/art/shapes/rocks/moss_rock11_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1050253722
+  },
+  "moss_rock_13": {
+    "name": "moss_rock_13",
+    "mapTo": "moss_rock_13",
+    "class": "Material",
+    "persistentId": "9e1d88ab-2145-491e-b5ab-8048c5dab104",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/moss_rock13_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/Macro3.dds",
+        "detailNormalMap": "/levels/crandon/art/shapes/rocks/Macro_n.dds",
+        "detailScale": [
+          8,
+          8
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/moss_rock13_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.402999997,
+        "specularMap": "levels/crandon/art/shapes/rocks/moss_rock13_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1050253722
+  },
+  "rock01": {
+    "name": "rock01",
+    "mapTo": "rock01",
+    "class": "Material",
+    "persistentId": "9e1d88ab-9518-491e-b5ab-8048c5dab104",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/Rocks0107_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/Macro3.dds",
+        "detailNormalMap": "/levels/crandon/art/shapes/rocks/Macro_n.dds",
+        "detailScale": [
+          8,
+          8
+        ],
+        "diffuseColor": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/Rocks0107_n.dds",
+        "roughnessFactor": 0.465999991,
+        "specularMap": "levels/crandon/art/shapes/rocks/Rocks0107_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1050253722
+  },
+  "rock30_mat": {
+    "name": "rock30_mat",
+    "mapTo": "rock30",
+    "class": "Material",
+    "persistentId": "9d6ca832-cd57-4524-9237-1cbfea01296b",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rock40_d.dds",
+        "detailMap": "levels/crandon/art/shapes/rocks/Macro2.dds",
+        "detailScale": [
+          15,
+          15
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/rock40_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.449999988,
+        "specularMap": "levels/crandon/art/shapes/rocks/rock40_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  },
+  "rock_60": {
+    "name": "rock_60",
+    "mapTo": "rock_60",
+    "class": "Material",
+    "persistentId": "77c977b5-570d-4bc4-a24a-afee094689cc",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/shapes/rocks/rock_60_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/Rocks21_d.dds",
+        "detailNormalMap": "/levels/crandon/art/shapes/rocks/Macro_n.dds",
+        "detailNormalMapStrength": 2,
+        "detailScale": [
+          20,
+          20
+        ],
+        "normalMap": "/levels/crandon/art/shapes/rocks/rock_60_n.dds",
+        "specularMap": "/levels/crandon/art/shapes/rocks/rock_60_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 380
+  },
+  "rockclimb01": {
+    "name": "rockclimb01",
+    "mapTo": "rockclimb01",
+    "class": "Material",
+    "persistentId": "185b2fd0-s222-4ba2-9aff-4578de455f33",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/shapes/rocks/Red_rocks_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_n.normal.DDS",
+        "roughnessFactor": 0.829999983,
+        "specular": [
+          1,
+          0.999989986,
+          0.999989986,
+          1
+        ],
+        "specularMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_s.color.DDS",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "doubleSided": true,
+    "order_simset": 1,
+    "showDust": true
+  },
+  "rocks21_rock02": {
+    "name": "rocks21_rock02",
+    "mapTo": "rock02",
+    "class": "material",
+    "persistentId": "491f7062-e588-40b2-bbfa-3d036537532a",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/Rocks21_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/Rocks21_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/Rocks21_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 7602291,
+    "translucentBlendOp": "None"
+  },
+  "smallrocks": {
+    "name": "smallrocks",
+    "mapTo": "smallrocks",
+    "class": "Material",
+    "persistentId": "491f7062-e564-40b2-5566-3d036537532a",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/road/dirt_road_tread_ruts_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/smallrocks_n.dds",
+        "pixelSpecular": true,
+        "roughnessFactor": 0.740999997,
+        "specularMap": "levels/crandon/art/shapes/rocks/smallrocks_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 7602293,
+    "translucentBlendOp": "None"
+  },
+  "smallrocks1_mat": {
+    "name": "smallrocks1_mat",
+    "mapTo": "smallrocks1",
+    "class": "material",
+    "persistentId": "185b2fd0-b214-4ba2-9aff-4578de455f33",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/road/road-01_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/smallrocks_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/smallrocks_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1
+  },
+  "smallrocks2_mat": {
+    "name": "smallrocks2_mat",
+    "mapTo": "smallrocks2",
+    "class": "material",
+    "persistentId": "40589ef6-0dab-432e-ac32-1dc27655ac1a",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/road/dirt_road_tread_ruts_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/smallrocks_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/smallrocks_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  },
+  "utahrock01": {
+    "name": "utahrock01",
+    "mapTo": "utahrock01",
+    "class": "material",
+    "persistentId": "40589ef6-as23-432e-ac32-1dc27655ac1a",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/Utahrock_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/Utahrock_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/Utahrock_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  }
+}

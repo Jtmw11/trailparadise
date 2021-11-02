@@ -1,0 +1,43 @@
+{
+  "rocknl_01_colmesh": {
+    "name": "rocknl_01_colmesh",
+    "mapTo": "colmesh",
+    "class": "material",
+    "persistentId": "9dc15b92-6035-4abe-b62a-28391213021b",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": -1,
+    "translucentBlendOp": "None"
+  },
+  "rocknl_01_rocknl01": {
+    "name": "rocknl_01_rocknl01",
+    "mapTo": "rocknl01",
+    "class": "Material",
+    "persistentId": "b41d4732-4ced-4189-8732-47b0fdbb5e0b",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/shapes/rocks/rocksnl/rocknl01_d",
+        "normalMap": "/levels/crandon/art/shapes/rocks/rocksnl/rocknl01_n.dds",
+        "roughnessFactor": 0.533999979,
+        "specularMap": "/levels/crandon/art/shapes/rocks/rocksnl/rocknl01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1053926143,
+    "translucentBlendOp": "None"
+  }
+}

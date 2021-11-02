@@ -1,0 +1,25 @@
+{
+  "rock_large_01_jri_rocksB": {
+    "name": "rock_large_01_jri_rocksB",
+    "mapTo": "jri_rocksB",
+    "class": "Material",
+    "persistentId": "69d71d90-8c12-4e6a-aa0d-8e6cf5f95976",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/Red_rocks_d.dds",
+        "detailScale": [
+          30,
+          20
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_n.normal.DDS",
+        "specularMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_s.color.DDS",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 32760,
+    "translucentBlendOp": "None"
+  }
+}

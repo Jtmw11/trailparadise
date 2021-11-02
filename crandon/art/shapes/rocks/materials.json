@@ -1,0 +1,153 @@
+{
+  "Chromeplate_mat": {
+    "name": "Chromeplate_mat",
+    "mapTo": "Chromeplate",
+    "class": "Material",
+    "persistentId": "64678168-7d13-43a5-82b1-2b8588861e7d",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/misc/Metal01_d.dds",
+        "diffuseColor": [
+          1,
+          1,
+          0.999989986,
+          1
+        ],
+        "normalMap": "levels/crandon/art/shapes/misc/Metal01_n.dds",
+        "pixelSpecular": true,
+        "reflectivityMap": "levels/crandon/art/shapes/misc/Metal01_s.dds",
+        "specularMap": "levels/crandon/art/shapes/misc/Metal01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "cubemap": "global_cubemap_metalblurred"
+  },
+  "Moss_rock_01_mat": {
+    "name": "Moss_rock_01_mat",
+    "mapTo": "Moss_rock_01",
+    "class": "material",
+    "persistentId": "db41659e-3097-48eb-a868-197664fa2ed8",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/moss_rock01_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/moss_rock01_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/moss_rock01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  },
+  "hillclimb02_mat": {
+    "name": "hillclimb02_mat",
+    "mapTo": "hillclimb02",
+    "class": "Material",
+    "persistentId": "3b57653a-fc0f-4f4f-bad2-ceee6d3c658f",
+    "Stages": [
+      {
+        "colorMap": "/levels/crandon/art/shapes/rocks/Red_rocks_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_n.normal.DDS",
+        "specularMap": "levels/crandon/art/shapes/rocks/rocks_island/jri_rocks_s.color.DDS",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  },
+  "moss_rock_17_mat": {
+    "name": "moss_rock_17_mat",
+    "mapTo": "moss_rock_17",
+    "class": "material",
+    "persistentId": "156394a4-d4b5-40ff-b109-2645379d2093",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/moss_rock17_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/moss_rock17_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/moss_rock17_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ]
+  },
+  "moss_rock_18_mat": {
+    "name": "moss_rock_18_mat",
+    "mapTo": "moss_rock_18",
+    "class": "material",
+    "persistentId": "43b29c89-76e2-4198-826b-b7e68654c2de",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/moss_rock18_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/moss_rock18_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/moss_rock18_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 0
+  },
+  "rock50_mat": {
+    "name": "rock50_mat",
+    "mapTo": "w",
+    "class": "Material",
+    "persistentId": "3f5e532f-ab66-4cc5-9048-39840093cadc",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rock50_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rock50_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/rock50_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1986332937
+  },
+  "rock60_mat": {
+    "name": "rock60_mat",
+    "mapTo": "rock60",
+    "class": "material",
+    "persistentId": "9046b19d-32e0-4384-bc69-e48b8ebafeac",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rock60_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rock60_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/rock60_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1
+  },
+  "rock_moss_mat": {
+    "name": "rock_moss_mat",
+    "mapTo": "rock_moss",
+    "class": "material",
+    "persistentId": "58d69375-eb9e-4c7f-8d9b-cb782efc6405",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rock_moss_d.dds",
+        "normalMap": "levels/crandon/art/shapes/rocks/rock_moss_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/rock_moss_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 1853032713
+  }
+}

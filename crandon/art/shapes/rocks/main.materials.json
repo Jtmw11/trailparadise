@@ -23,5 +23,104 @@
     "materialTag0" : "beamng",
     "materialTag1" : "Natural",
     "translucentBlendOp" : "None"
+  },
+  "rock60": {
+    "name": "rock60",
+    "mapTo": "rock60",
+    "class": "Material",
+    "persistentId": "491f7062-e588-40b2-4567-3d036537532a",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/rock60_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/rocks_detail.dds",
+        "detailScale": [
+          10,
+          10
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/rock60_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/rock60_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 7602291,
+    "translucentBlendOp": "None"
+  },
+  "rocks21_colmesh1": {
+    "name": "rocks21_colmesh1",
+    "mapTo": "colmesh1",
+    "class": "material",
+    "persistentId": "a867e279-8da8-45a4-9c4f-c0f862b6c465",
+    "Stages": [
+      {
+        "diffuseColor": [
+          0.0029421139,
+          0.4019683,
+          0,
+          1
+        ]
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 0,
+    "translucentBlendOp": "None"
+  },
+  "rocks21_rock02": {
+    "name": "rocks21_rock02",
+    "mapTo": "rock02",
+    "class": "Material",
+    "persistentId": "491f7062-e588-40b2-bbfa-3d036537532a",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/Rocks21_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/rocks_detail.dds",
+        "detailScale": [
+          10,
+          10
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/Rocks21_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/Rocks21_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 7602291,
+    "translucentBlendOp": "None"
+  },
+  "spiralclimb": {
+    "name": "spiralclimb",
+    "mapTo": "spiralclimb",
+    "class": "Material",
+    "persistentId": "05ffc9a7-2e34-4147-a8ef-33fb50ea77c4",
+    "Stages": [
+      {
+        "colorMap": "levels/crandon/art/shapes/rocks/spiralclimb01_d.dds",
+        "detailMap": "/levels/crandon/art/shapes/rocks/Macro.dds",
+        "detailScale": [
+          20,
+          20
+        ],
+        "diffuseColor": [
+          0.777879,
+          0.762520015,
+          0.762520015,
+          1
+        ],
+        "normalMap": "levels/crandon/art/shapes/rocks/spiralclimb01_n.dds",
+        "specularMap": "levels/crandon/art/shapes/rocks/spiralclimb01_s.dds",
+        "useAnisotropic": true
+      },
+      {},
+      {},
+      {}
+    ],
+    "order_simset": 7602291,
+    "translucentBlendOp": "None"
   }
 }
